@@ -1,0 +1,5 @@
+# Exclude Origin folder
+Origin/
+
+# macOS
+.DS_Store
